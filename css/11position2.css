@@ -1,0 +1,18 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: yellow;
+    border: 1px solid yellowgreen;
+}
+
+#div1{
+    position:relative; top: 50px;
+}
+
+#div2{
+    position:relative; left: 50px;
+}
+
+#div3{
+    position:relative; bottom: 30px;
+}

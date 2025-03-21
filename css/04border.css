@@ -1,0 +1,10 @@
+h1{
+    border-style: double;
+    border-width: 10px;
+    border-color: green;
+}
+#ALLEN{
+    border-style: solid;
+    border-width: 100px 10px 50px 30px; /*상우하좌의 개념, 위에서부터 시계방향으로*/
+    border-color: violet;
+}

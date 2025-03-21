@@ -1,0 +1,6 @@
+div{
+    border: 1px solid red;
+}
+#div2{
+    position: absolute; top:50px; left:50px
+}

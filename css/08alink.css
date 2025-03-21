@@ -1,0 +1,7 @@
+a{
+    background-color: pink;
+}
+a:active{background-color: hotpink;} /*마우스가 눌러졌을 때 링크의 색*/
+a:link{background-color: plum;} /*링크의 기본색*/
+a:visited{color:purple} /*방문했던 링크의 색*/
+a:hover{background-color:skyblue} /*마우스가 올라갔을 때 링크의 색*/
